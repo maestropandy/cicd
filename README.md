@@ -1,2 +1,2 @@
-# cicd deployment
+# CICD Deployment
 First CICD Deployment
